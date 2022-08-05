@@ -47,5 +47,5 @@
       "last 1 safari version"
     ]
   },
-  "proxy": "https://reactjsyoutubeclone.vercel.app:8800/api/"
+  "proxy": "https://reactjsyoutubeclone.vercel.app/api/"
 }
